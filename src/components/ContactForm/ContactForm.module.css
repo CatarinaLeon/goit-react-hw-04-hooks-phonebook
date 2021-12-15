@@ -1,0 +1,26 @@
+label {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+}
+button {
+  margin: 5px 10px;
+  background-color: #06196eab;
+  color: white;
+  border-radius: 5px;
+  border-color: #0a0131ab;
+  padding: 5px 15px;
+}
+button:hover {
+  background-color: white;
+  color: #010508ab;
+  border-color: #0a0131ab;
+}
+
+.contactform {
+  width: 300px;
+  padding: 20px;
+  display: block;
+  border: 1px solid #031150;
+  border-radius: 5px;
+}
